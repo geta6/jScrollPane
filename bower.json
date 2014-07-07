@@ -12,6 +12,10 @@
 		"./script/jquery.jscrollpane.min.js",
 		"./style/jquery.jscrollpane.css"
 	],
+	"ignore": [
+		"issues",
+		"*.html"
+	],
 	"dependencies": {
 		"jquery": "latest"
 	},
